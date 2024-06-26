@@ -1,7 +1,7 @@
 ## Project Photo
 
 ![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/f5b49f80-7877-4535-ad73-94334f7bae57)
-![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/88bd859a-827f-4169-88e9-bb9c4c7f6218)
+![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/b8ca0c41-19d9-4413-9717-adaf095e4a0d)
 ![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/d9d6c9a4-ac86-408d-806a-688d350036c1)
 ![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/5b0482fb-66eb-45b8-88c0-04660ae451c7)
 ![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/c5c2c11d-a4b3-463c-8e30-a58b6d66a73d)
