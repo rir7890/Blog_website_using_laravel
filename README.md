@@ -1,3 +1,18 @@
+## Project Photo
+
+![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/f5b49f80-7877-4535-ad73-94334f7bae57)
+![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/88bd859a-827f-4169-88e9-bb9c4c7f6218)
+![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/d9d6c9a4-ac86-408d-806a-688d350036c1)
+![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/5b0482fb-66eb-45b8-88c0-04660ae451c7)
+![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/c5c2c11d-a4b3-463c-8e30-a58b6d66a73d)
+![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/23a71490-b667-4487-8ece-a6ef6380676d)
+![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/5bcbce24-5fae-4f84-a0ef-cf0e56974f82)
+![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/c6232799-5c90-4cfe-a6d1-9e6c2b52c9ff)
+![image](https://github.com/rir7890/Blog_website_using_laravel/assets/98277620/fa40409c-2533-42c9-8fa5-a74f7bc3ee28)
+
+
+
+## Image Laravel
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
